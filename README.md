@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DugiSel
+- 👋 Hi, I’m @Dugis
 - 👀 I’m interested in DevOps and coding
 - 🌱 I’m currently learning Python AI
 - 💞️ I’m looking to collaborate on anything related to software development or AI projects
